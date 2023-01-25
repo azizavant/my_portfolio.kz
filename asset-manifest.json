@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my_portfolio.kz/static/css/main.7433f3ed.css",
+    "main.js": "/my_portfolio.kz/static/js/main.605efb4e.js",
+    "static/js/787.128fc6e9.chunk.js": "/my_portfolio.kz/static/js/787.128fc6e9.chunk.js",
+    "static/media/original-webp": "/my_portfolio.kz/static/media/original-e272ddaa6a380c4ecbb3d18faf9b3be4.3622700308e317610bf4.webp",
+    "static/media/Storyboards.pdf": "/my_portfolio.kz/static/media/Storyboards.b0f2d35829072ff7fbf0.pdf",
+    "static/media/twistzz.jpg": "/my_portfolio.kz/static/media/twistzz.234d9d1760c4cd6427b3.jpg",
+    "static/media/photo_2022-12-20_20-51-24.jpg": "/my_portfolio.kz/static/media/photo_2022-12-20_20-51-24.9bbcf4cc07eeb3b1b125.jpg",
+    "static/media/dev1ce.jpg": "/my_portfolio.kz/static/media/dev1ce.0f6537909259e0479bf4.jpg",
+    "index.html": "/my_portfolio.kz/index.html",
+    "main.7433f3ed.css.map": "/my_portfolio.kz/static/css/main.7433f3ed.css.map",
+    "main.605efb4e.js.map": "/my_portfolio.kz/static/js/main.605efb4e.js.map",
+    "787.128fc6e9.chunk.js.map": "/my_portfolio.kz/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7433f3ed.css",
+    "static/js/main.605efb4e.js"
+  ]
+}
